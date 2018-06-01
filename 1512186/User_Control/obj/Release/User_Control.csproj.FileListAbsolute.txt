@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\User_Control\bin\Release\User_Control.exe.config
+C:\Users\Admin\source\repos\User_Control\bin\Release\User_Control.exe
+C:\Users\Admin\source\repos\User_Control\bin\Release\User_Control.pdb
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.DigitalClock.resources
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.Form1.resources
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.Properties.Resources.resources
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.exe
+C:\Users\Admin\source\repos\User_Control\obj\Release\User_Control.pdb
